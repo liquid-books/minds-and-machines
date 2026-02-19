@@ -259,5 +259,6 @@ Curated books, courses, papers, podcasts, and communities for continued learning
   A Companion Textbook for CAI 1001C — Introduction to Artificial Intelligence<br>
   Professor Carlos Marquez · Miami Dade College<br>
   Developed in alignment with the NAAIC Curriculum<br><br>
+  By Professor Carlos Marquez &amp; Dr. Ernesto Lee<br>
   Made by <a href="https://drlee.ai">DrLee.ai</a>
 </p>

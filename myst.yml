@@ -9,6 +9,7 @@ project:
     Developed in alignment with the National Applied AI Consortium (NAAIC) Curriculum.
     Featuring Google Gemini, Google AI Studio, Google Colab, and Kaggle.
   authors:
+    - name: Professor Carlos Marquez
     - name: Dr. Ernesto Lee
   keywords:
     - artificial intelligence
