@@ -1,0 +1,104 @@
+# Minds and Machines — A First Look at AI
+# Companion textbook for CAI 1001C — Introduction to Artificial Intelligence
+version: 1
+project:
+  title: "Minds and Machines"
+  subtitle: "A First Look at AI"
+  description: >
+    A companion textbook for CAI 1001C — Introduction to Artificial Intelligence.
+    Developed in alignment with the National Applied AI Consortium (NAAIC) Curriculum.
+    Featuring Google Gemini, Google AI Studio, Google Colab, and Kaggle.
+  authors:
+    - name: Dr. Ernesto Lee
+  keywords:
+    - artificial intelligence
+    - machine learning
+    - deep learning
+    - natural language processing
+    - computer vision
+    - generative AI
+    - robotics
+    - Python
+    - data science
+    - ethics in AI
+    - prompt engineering
+    - Google Gemini
+    - Google Colab
+    - textbook
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/liquid-books/minds-and-machines
+  subject: Artificial Intelligence
+  numbering:
+    figure:
+      enabled: true
+    table:
+      enabled: true
+    equation:
+      enabled: true
+    heading_1: false
+    heading_2: true
+    heading_3: true
+  abbreviations:
+    AI: Artificial Intelligence
+    ML: Machine Learning
+    DL: Deep Learning
+    NLP: Natural Language Processing
+    CV: Computer Vision
+    LLM: Large Language Model
+    RAG: Retrieval-Augmented Generation
+    CNN: Convolutional Neural Network
+    RNN: Recurrent Neural Network
+    GAN: Generative Adversarial Network
+    GPU: Graphics Processing Unit
+    TPU: Tensor Processing Unit
+    CPU: Central Processing Unit
+    IoT: Internet of Things
+    EDA: Exploratory Data Analysis
+    API: Application Programming Interface
+    SVM: Support Vector Machine
+    KNN: K-Nearest Neighbors
+    NAAIC: National Applied AI Consortium
+    MDC: Miami Dade College
+  toc:
+    - file: index.md
+    - title: "Part I: Foundations of Artificial Intelligence"
+      children:
+        - file: chapters/ch01-demystifying-ai.md
+        - file: chapters/ch02-ai-technology-ecosystem.md
+        - file: chapters/ch03-ethics-bias-responsible-ai.md
+        - file: chapters/ch04-data-fuel-for-ai.md
+    - title: "Part II: The Domains of AI"
+      children:
+        - file: chapters/ch05-machine-learning-fundamentals.md
+        - file: chapters/ch06-natural-language-processing.md
+        - file: chapters/ch07-generative-ai.md
+        - file: chapters/ch08-computer-vision.md
+        - file: chapters/ch09-robotics-autonomous-systems.md
+    - title: "Part III: Building with AI — Python and Projects"
+      children:
+        - file: chapters/ch10-python-for-ai.md
+        - file: chapters/ch11-project-statistical-data-analysis.md
+        - file: chapters/ch12-project-nlp.md
+        - file: chapters/ch13-project-computer-vision.md
+    - title: "Appendices"
+      children:
+        - file: chapters/appendix-a-colab-quickstart.md
+        - file: chapters/appendix-b-ai-studio-reference.md
+        - file: chapters/appendix-c-gemini-api-cookbook.md
+        - file: chapters/appendix-d-python-quick-reference.md
+        - file: chapters/appendix-e-kaggle-dataset-guide.md
+        - file: chapters/appendix-f-ai-vocabulary-glossary.md
+        - file: chapters/appendix-g-competency-mapping.md
+        - file: chapters/appendix-h-further-reading.md
+
+site:
+  title: "Minds and Machines — A First Look at AI"
+  logo_text: "Minds and Machines"
+  options:
+    favicon: ""
+    logo: ""
+  nav: []
+  actions:
+    - title: GitHub
+      url: https://github.com/liquid-books/minds-and-machines
