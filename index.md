@@ -8,6 +8,11 @@ description: >
 ---
 
 # Minds and Machines
+:::{figure} ./images/cover.png
+:width: 300px
+:align: center
+:::
+
 
 ## A First Look at AI
 
